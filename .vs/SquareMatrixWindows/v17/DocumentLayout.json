@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Visual Studio\\SquareMatrixWindows\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E71C08DB-5568-4637-BEC6-16E0692D24EB}|SquareMatrixWindows\\SquareMatrixWindows.csproj|c:\\visual studio\\squarematrixwindows\\squarematrixwindows\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71C08DB-5568-4637-BEC6-16E0692D24EB}|SquareMatrixWindows\\SquareMatrixWindows.csproj|solutionrelative:squarematrixwindows\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71C08DB-5568-4637-BEC6-16E0692D24EB}|SquareMatrixWindows\\SquareMatrixWindows.csproj|C:\\Visual Studio\\SquareMatrixWindows\\squarematrixwindows\\squarematrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71C08DB-5568-4637-BEC6-16E0692D24EB}|SquareMatrixWindows\\SquareMatrixWindows.csproj|solutionrelative:squarematrixwindows\\squarematrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71C08DB-5568-4637-BEC6-16E0692D24EB}|SquareMatrixWindows\\SquareMatrixWindows.csproj|C:\\Visual Studio\\SquareMatrixWindows\\squarematrixwindows\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E71C08DB-5568-4637-BEC6-16E0692D24EB}|SquareMatrixWindows\\SquareMatrixWindows.csproj|solutionrelative:squarematrixwindows\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E71C08DB-5568-4637-BEC6-16E0692D24EB}|SquareMatrixWindows\\SquareMatrixWindows.csproj|C:\\Visual Studio\\SquareMatrixWindows\\squarematrixwindows\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E71C08DB-5568-4637-BEC6-16E0692D24EB}|SquareMatrixWindows\\SquareMatrixWindows.csproj|solutionrelative:squarematrixwindows\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 715,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Visual Studio\\SquareMatrixWindows\\SquareMatrixWindows\\Form1.cs",
+              "RelativeDocumentMoniker": "SquareMatrixWindows\\Form1.cs",
+              "ToolTip": "C:\\Visual Studio\\SquareMatrixWindows\\SquareMatrixWindows\\Form1.cs [Design]",
+              "RelativeToolTip": "SquareMatrixWindows\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T15:00:16.309Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Visual Studio\\SquareMatrixWindows\\SquareMatrixWindows\\Form1.cs",
+              "RelativeDocumentMoniker": "SquareMatrixWindows\\Form1.cs",
+              "ToolTip": "C:\\Visual Studio\\SquareMatrixWindows\\SquareMatrixWindows\\Form1.cs",
+              "RelativeToolTip": "SquareMatrixWindows\\Form1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T16:43:06.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SquareMatrix.cs",
+              "DocumentMoniker": "C:\\Visual Studio\\SquareMatrixWindows\\SquareMatrixWindows\\SquareMatrix.cs",
+              "RelativeDocumentMoniker": "SquareMatrixWindows\\SquareMatrix.cs",
+              "ToolTip": "C:\\Visual Studio\\SquareMatrixWindows\\SquareMatrixWindows\\SquareMatrix.cs",
+              "RelativeToolTip": "SquareMatrixWindows\\SquareMatrix.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwCQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T15:49:23.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Visual Studio\\SquareMatrixWindows\\SquareMatrixWindows\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SquareMatrixWindows\\Form1.Designer.cs",
+              "ToolTip": "C:\\Visual Studio\\SquareMatrixWindows\\SquareMatrixWindows\\Form1.Designer.cs",
+              "RelativeToolTip": "SquareMatrixWindows\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T16:34:23.63Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 751,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+C:\Visual Studio\SquareMatrixWindows\SquareMatrixWindows\bin\Release\net7.0-windows\publish\SquareMatrixWindows.exe
+C:\Visual Studio\SquareMatrixWindows\SquareMatrixWindows\bin\Release\net7.0-windows\publish\SquareMatrixWindows.dll
+C:\Visual Studio\SquareMatrixWindows\SquareMatrixWindows\bin\Release\net7.0-windows\publish\SquareMatrixWindows.deps.json
+C:\Visual Studio\SquareMatrixWindows\SquareMatrixWindows\bin\Release\net7.0-windows\publish\SquareMatrixWindows.runtimeconfig.json
+C:\Visual Studio\SquareMatrixWindows\SquareMatrixWindows\bin\Release\net7.0-windows\publish\SquareMatrixWindows.pdb

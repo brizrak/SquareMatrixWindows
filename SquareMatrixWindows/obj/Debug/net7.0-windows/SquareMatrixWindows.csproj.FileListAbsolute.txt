@@ -1,0 +1,16 @@
+C:\Visual Studio\SquareMatrixWindows\SquareMatrixWindows\bin\Debug\net7.0-windows\SquareMatrixWindows.exe
+C:\Visual Studio\SquareMatrixWindows\SquareMatrixWindows\bin\Debug\net7.0-windows\SquareMatrixWindows.deps.json
+C:\Visual Studio\SquareMatrixWindows\SquareMatrixWindows\bin\Debug\net7.0-windows\SquareMatrixWindows.runtimeconfig.json
+C:\Visual Studio\SquareMatrixWindows\SquareMatrixWindows\bin\Debug\net7.0-windows\SquareMatrixWindows.dll
+C:\Visual Studio\SquareMatrixWindows\SquareMatrixWindows\bin\Debug\net7.0-windows\SquareMatrixWindows.pdb
+C:\Visual Studio\SquareMatrixWindows\SquareMatrixWindows\obj\Debug\net7.0-windows\SquareMatrixWindows.Form1.resources
+C:\Visual Studio\SquareMatrixWindows\SquareMatrixWindows\obj\Debug\net7.0-windows\SquareMatrixWindows.csproj.GenerateResource.cache
+C:\Visual Studio\SquareMatrixWindows\SquareMatrixWindows\obj\Debug\net7.0-windows\SquareMatrixWindows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\SquareMatrixWindows\SquareMatrixWindows\obj\Debug\net7.0-windows\SquareMatrixWindows.AssemblyInfoInputs.cache
+C:\Visual Studio\SquareMatrixWindows\SquareMatrixWindows\obj\Debug\net7.0-windows\SquareMatrixWindows.AssemblyInfo.cs
+C:\Visual Studio\SquareMatrixWindows\SquareMatrixWindows\obj\Debug\net7.0-windows\SquareMatrixWindows.csproj.CoreCompileInputs.cache
+C:\Visual Studio\SquareMatrixWindows\SquareMatrixWindows\obj\Debug\net7.0-windows\SquareMatrixWindows.dll
+C:\Visual Studio\SquareMatrixWindows\SquareMatrixWindows\obj\Debug\net7.0-windows\refint\SquareMatrixWindows.dll
+C:\Visual Studio\SquareMatrixWindows\SquareMatrixWindows\obj\Debug\net7.0-windows\SquareMatrixWindows.pdb
+C:\Visual Studio\SquareMatrixWindows\SquareMatrixWindows\obj\Debug\net7.0-windows\SquareMatrixWindows.genruntimeconfig.cache
+C:\Visual Studio\SquareMatrixWindows\SquareMatrixWindows\obj\Debug\net7.0-windows\ref\SquareMatrixWindows.dll

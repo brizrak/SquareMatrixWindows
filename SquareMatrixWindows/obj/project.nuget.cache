@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dO7IOgapQbO7tGwTYXe8jNKDnb7nG3uJ/v7Moxv5FExPcwfBQC/n/+r9cYev5PmSa93HQX12X2LxOgw3bDCKsw==",
+  "success": true,
+  "projectFilePath": "C:\\Visual Studio\\SquareMatrixWindows\\SquareMatrixWindows\\SquareMatrixWindows.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vladi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\vladi\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\vladi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\vladi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
